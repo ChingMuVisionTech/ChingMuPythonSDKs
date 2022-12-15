@@ -2,12 +2,12 @@
 基于python语言，获取CMAvatar或CMServer发送的数据。
 
 ## 功能特性
-1.提供了c++编译的动态库，通过python types模块
+1.提供了c++编译的动态库，通过python types模块\n
 2.提供了重定向数据、非重定向数据、层级信息的接收的说明文档和演示文件。
 
 ## 依赖
 当前文档的测试环境为:
-Python 3.10.5
+Python 3.10.5\n
 CMAvatar 1.1.0.1744
 Windows 10
 
